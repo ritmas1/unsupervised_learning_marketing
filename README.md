@@ -1,5 +1,6 @@
 
-Elaborating marketing strategy for mythical insurance company via unsupervised machine learning.
+Elaborating marketing strategy for a mythical insurance company via unsupervised machine learning.
+Data description and conclusions:
  
 Here follows the description of variables, and its initially assumed value from a business perspective:
 ID - possesses no valuable information for decision-making, therefore not used for further analysis.
